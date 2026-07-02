@@ -54,9 +54,3 @@ Se o usuario relatar falha ao conectar na rede corporativa em Home Office:
 1. **Confirmacao de Conectividade:** Certifique-se de que a internet residencial do usuario esta funcionando normalmente acessando qualquer site de testes.
 2. **Reinicializacao do Servico:** Abra o menu de Servicos do Windows (`services.msc`) e verifique se o servico relacionado ao cliente VPN (ex: FortiClient, Cisco AnyConnect) esta em execucao. Se necessario, clique com o botao direito e selecione "Reiniciar".
 3. **Verificacao de Credenciais:** Confirme se a conta do usuario nao foi bloqueada no Active Directory (AD) devido a excesso de tentativas incorretas.
-
-```
-
-Agora sim! Só colar e clicar no botão verde **"Commit changes..."**.
-
-```
