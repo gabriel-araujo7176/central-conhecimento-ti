@@ -57,5 +57,3 @@ Se o usuário relatar falha ao conectar na rede corporativa em Home Office:
 3. **Verificação de Credenciais:** Confirme se a conta do usuário não foi bloqueada no Active Directory (AD) devido a excesso de tentativas incorretas.
 
 ```
-
-```
